@@ -1,4 +1,10 @@
 return {
+  {
+    "uga-rosa/ccc.nvim", 
+    config = function()
+      require("ccc").setup()
+    end,
+  },
   -- You can also add new plugins here as well:
   -- Add plugins, the lazy syntax
   -- "andweeb/presence.nvim",
