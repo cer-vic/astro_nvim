@@ -29,8 +29,15 @@ return {
         },
       },
     },
-
   {import = "astrocommunity.color.twilight-nvim"},
+  {import = "astrocommunity.editing-support.todo-comments-nvim"},
+  {import = "astrocommunity.editing-support.neogen"},
+  {import = "astrocommunity.file-explorer.oil-nvim"},
+  {import = "astrocommunity.media.presence-nvim"},
+
+  {import = "astrocommunity.pack.cs"},
+  {import = "astrocommunity.pack.bash"},
+    
   -- example of imporing a plugin, comment out to use it or add your own
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
