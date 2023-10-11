@@ -35,7 +35,7 @@ return {
   {import = "astrocommunity.file-explorer.oil-nvim"},
   {import = "astrocommunity.media.presence-nvim"},
 
-  {import = "astrocommunity.pack.cs"},
+  -- {import = "astrocommunity.pack.cs"},
   {import = "astrocommunity.pack.bash"},
   -- {import = "astrocommunity.pack.go"},
   {import = "astrocommunity.pack.docker"}
