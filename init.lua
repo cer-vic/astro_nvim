@@ -18,6 +18,7 @@ return {
   },
 
   -- Set colorscheme to use
+  -- catppuccin
   colorscheme = "astrodark",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
