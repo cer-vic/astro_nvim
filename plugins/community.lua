@@ -29,6 +29,7 @@ return {
   --       },
   --     },
   --   },
+  {import = "astrocommunity.completion.codeium-vim"},
   -- {import = "astrocommunity.bars-and-lines.feline-nvim"},
   {import = "astrocommunity.code-runner.compiler-nvim"},
   {import = "astrocommunity.color.twilight-nvim"},
@@ -44,6 +45,7 @@ return {
   {import = "astrocommunity.pack.bash"},
   -- {import = "astrocommunity.pack.go"},
   {import = "astrocommunity.pack.docker"}
+
     
   -- example of imporing a plugin, comment out to use it or add your own
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
