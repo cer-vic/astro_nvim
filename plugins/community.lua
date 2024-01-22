@@ -39,6 +39,7 @@ return {
   {import = "astrocommunity.editing-support.neogen"},
   {import = "astrocommunity.file-explorer.oil-nvim"},
   {import = "astrocommunity.media.presence-nvim"},
+  {import = "astrocommunity.test.nvim-coverage"},
 
   -- {import = "astrocommunity.pack.cs"},
   {import = "astrocommunity.pack.bash"},
